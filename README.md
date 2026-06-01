@@ -1,4 +1,4 @@
-# Hand Gesture Audio Control 🎛️✋
+# Hand Gesture Volume Control 🎛️✋
 
 A Python application that lets you control your system volume in real-time using hand gestures detected via webcam.  
 Built with [MediaPipe](https://mediapipe.dev/), [OpenCV](https://opencv.org/), and [PyCaw](https://github.com/AndreMiras/pycaw).
