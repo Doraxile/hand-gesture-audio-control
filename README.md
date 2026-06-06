@@ -87,7 +87,6 @@ python src/main.py
 
 - Add support for macOS CoreAudio and Linux ALSA systems.
 - Build a lightweight system-tray widget to run the control loop in the background.
-- Integrate gesture-based play/pause and media track skipping using multi-finger swipes.
 
 ## License
 
